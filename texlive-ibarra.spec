@@ -1,6 +1,6 @@
 Name:		texlive-ibarra
 Version:	64567
-Release:	1
+Release:	2
 Summary:	LaTeX support for the Ibarra Real Nova family of fonts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ibarra
