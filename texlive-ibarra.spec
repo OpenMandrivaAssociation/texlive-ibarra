@@ -3,7 +3,7 @@ Version:	64567
 Release:	2
 Summary:	LaTeX support for the Ibarra Real Nova family of fonts
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ibarra
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ibarra
 License:	ofl lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ibarra.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ibarra.doc.r%{version}.tar.xz
